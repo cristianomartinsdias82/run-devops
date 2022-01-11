@@ -22,7 +22,7 @@ variables:
   containerRegistry: 'shoppingacr.azurecr.io'
   dockerfilePath: 'Shopping/Shopping.API/Dockerfile'
   tag: '$(Build.BuildId)'
-  imagePullSecret: 'shoppingacr20662ab5-auth'
+  imagePullSecret: 'shoppingacr202205011637a120-auth'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
