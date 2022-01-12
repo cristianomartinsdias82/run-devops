@@ -40,3 +40,9 @@ When we push code to Github, microservices pipeline triggers, build docker image
 ![cicd](https://user-images.githubusercontent.com/1147445/105671542-f37c3700-5ef3-11eb-9532-59a5855214d0.png)
 
 You’ll see how to deploy your multi-container microservices applications with automating all deployment process seperately.
+
+Shopping Api pipeline latest status
+[![Build Status](https://dev.azure.com/rblackm/Shopping_2022-01-06/_apis/build/status/cristianomartinsdias82.run-devops%20(2)?branchName=main)](https://dev.azure.com/rblackm/Shopping_2022-01-06/_build/latest?definitionId=12&branchName=main)
+
+Shopping Client pipeline latest status
+[![Build Status](https://dev.azure.com/rblackm/Shopping_2022-01-06/_apis/build/status/cristianomartinsdias82.run-devops%20(1)?branchName=main)](https://dev.azure.com/rblackm/Shopping_2022-01-06/_build/latest?definitionId=11&branchName=main)
